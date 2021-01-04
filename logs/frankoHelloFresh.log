@@ -1,0 +1,28 @@
+12/17/2020 00:09:10 INFO:SparkSession created 
+12/17/2020 00:09:13 INFO:Input json file loaded
+12/17/2020 00:09:14 INFO:PySpark SQL temp table created
+12/17/2020 00:09:14 INFO:Pyspark Dataframe - calculated total times and difficulty completed
+12/17/2020 00:09:14 INFO:Prepared final Pyspark Dataframe ouput
+12/17/2020 00:09:18 INFO:Output file completed - ending application
+12/17/2020 00:09:18 INFO:Additional Encryption completed in encrypted folder
+12/17/2020 00:13:28 INFO:SparkSession created 
+12/17/2020 00:13:31 INFO:Input json file loaded
+12/17/2020 00:13:31 INFO:PySpark SQL temp table created
+12/17/2020 00:13:32 INFO:Pyspark Dataframe - calculated total times and difficulty completed
+12/17/2020 00:13:32 INFO:Prepared final Pyspark Dataframe ouput
+12/17/2020 00:13:36 INFO:Output file completed - ending application
+12/17/2020 00:13:36 INFO:Additional Encryption completed in encrypted folder
+12/17/2020 00:19:00 INFO:SparkSession created 
+12/17/2020 00:19:03 INFO:Input json file loaded
+12/17/2020 00:19:04 INFO:PySpark SQL temp table created
+12/17/2020 00:19:04 INFO:Pyspark Dataframe - calculated total times and difficulty completed
+12/17/2020 00:19:04 INFO:Prepared final Pyspark Dataframe ouput
+12/17/2020 00:19:08 INFO:Output file completed - ending application
+12/17/2020 00:19:08 INFO:Additional Encryption completed in encrypted folder
+12/17/2020 11:43:58 INFO:SparkSession created 
+12/17/2020 11:44:01 INFO:Input json file loaded
+12/17/2020 11:44:01 INFO:PySpark SQL temp table created
+12/17/2020 11:44:02 INFO:Pyspark Dataframe - calculated total times and difficulty completed
+12/17/2020 11:44:02 INFO:Prepared final Pyspark Dataframe ouput
+12/17/2020 11:44:05 INFO:Output file completed - ending application
+12/17/2020 11:44:05 INFO:Additional Encryption completed in ouput/encrypted folder
